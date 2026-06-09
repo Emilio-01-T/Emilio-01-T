@@ -106,11 +106,4 @@ Most of my work is developed in private repositories, so public GitHub activity 
   <img src="https://raw.githubusercontent.com/Emilio-01-T/Emilio-01-T/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-##  Philosophy
-
-> Build it. Ship it. Monitor it. Improve it.
-
-I enjoy taking projects from idea to production, handling everything from architecture and development to deployment and maintenance.
 
